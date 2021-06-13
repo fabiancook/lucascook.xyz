@@ -20,7 +20,7 @@ async function run() {
     // );
 
     await render(
-      <SiteBody />,
+      SiteBody,
       context
     );
 
